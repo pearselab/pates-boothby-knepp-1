@@ -1,4 +1,3 @@
-
 # 20231019 Nell Pates - BOOTHBY WITH PSEUDOREPLICATE SITES
 # Total is in knepp-boothby-2022.R
 # Added a column 'survey' to b-plants.csv:
